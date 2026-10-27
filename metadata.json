@@ -1,0 +1,8 @@
+{
+  "name": "Remix NBS Work Plan \u0026 M\u0026E Management System",
+  "description": "National Bureau of Statistics Work Plan, Monitoring and Evaluation, and Budget Management System",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
